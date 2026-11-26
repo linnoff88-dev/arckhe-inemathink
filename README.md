@@ -1,4 +1,4 @@
-ï»¿# ê°Å¸Â§Â­ inemathink ê¢â¬â O Caminho Certo da IA
+ï»¿# ê°Å¸Â§Â­ ARCKHÉthink ê¢â¬â O Caminho Certo da IA
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -16,14 +16,14 @@ empoderamento êÂ© real, mas desigual (depende de quem usa e da tarefa).
 
 ## PêÂ¡gina do projeto
 
-ê°Å¸ââ° **https://inematds.github.io/inemathink/** ê¢â¬â landing + guia (o que êÂ©, a pesquisa por trêÂ¡s, os artefatos).
+ê°Å¸ââ° **https://linnoff88-dev.github.io/arckhe-/** ê¢â¬â landing + guia (o que êÂ©, a pesquisa por trêÂ¡s, os artefatos).
 
 ## Artefatos publicados
 
 | Artefato | O que êÂ© | Link |
 |---|---|---|
-| **Manifesto** | PêÂ¡gina êÂºnica, punchy, com os nêÂºmeros de contraste | https://inematds.github.io/caminho-certo-da-ia-guia/ |
-| **Curso v2** | 2 trilhas, 3 mêÂ³dulos, 19 têÂ³picos, camada de aprendizagem | https://inematds.github.io/caminho-certo-da-ia/ |
+| **Manifesto** | PêÂ¡gina êÂºnica, punchy, com os nêÂºmeros de contraste | https://linnoff88-dev.github.io/arckhe-/ |
+| **Curso v2** | 2 trilhas, 3 mêÂ³dulos, 19 têÂ³picos, camada de aprendizagem | https://linnoff88-dev.github.io/arckhe-/ |
 | **DossiêÂª** | Base de evidêÂªncia verificada (fontes + ressalvas) | [`dossie-caminho-certo-da-ia.md`](./dossie-caminho-certo-da-ia.md) |
 | **Manifesto (fonte)** | HTML-fonte do manifesto | [`manifesto.html`](./manifesto.html) |
 | **GrêÂ¡ficos** | Charts de IA/adoêÂ§êÂ£o/humanoides 2019-2030 | [`graficosfuturo/`](./graficosfuturo/) |
@@ -42,7 +42,7 @@ China (12.200 cursos trocados por IA) e UE (AI Act, Art. 4).
 
 ---
 
-Feito no ecossistema **[INEMA.CLUB](https://inema.club)**.
+Feito no ecossistema **[ARCKHÉ AI](https://ARCKHÉ AI)**.
 
 ---
 

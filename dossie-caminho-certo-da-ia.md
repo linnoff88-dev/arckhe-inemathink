@@ -1,6 +1,6 @@
 # Dossiê — "O Caminho Certo da IA"
 
-Base de evidência verificada para o conteúdo INEMA. Duas rodadas de pesquisa profunda
+Base de evidência verificada para o conteúdo ARCKHÉ. Duas rodadas de pesquisa profunda
 (fan-out + verificaçêo adversarial 3 votos) + verificaçêo manual dos números de manchete.
 Data de compilaçêo: 2026-06-20.
 
@@ -184,7 +184,7 @@ o material deixa de ser opiniêo e passa a ter lastro institucional.
 
 ---
 
-## OS 2 EIXOS DO MODELO INEMA
+## OS 2 EIXOS DO MODELO ARCKHÉ
 
 **Eixo 1 · Alavancar com IA** (do material de 7 pontos do usuário):
 1. IA nêo é só pra técnico — toda área usa.
